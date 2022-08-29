@@ -1,4 +1,5 @@
-![Logo Conversor de Moneda](https://user-images.githubusercontent.com/105081652/187108139-158b8dda-afdf-44ac-838a-ac318045e8a7.png)
+![ConversorImagenFondo](https://user-images.githubusercontent.com/105081652/187108388-91b61282-2289-4076-aaf0-cc6c350101a5.png)
+
 # Conversores
    Este proyecto consiste en un menú de conversores que cuenta con dos opciones: Conversor de Monedas y Conversor de Temperaturas.
  
