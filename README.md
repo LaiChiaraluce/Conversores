@@ -3,9 +3,8 @@
 # <h1 align="center">Conversores</h1>
    Este proyecto consiste en un menú de conversores que cuenta con dos opciones: Conversor de Monedas y Conversor de Temperaturas.
    
-   Tecnología utilizada: 
-         <br><h4>* Java ☕</h4>
-         <h4>* Desarrollador: Estanislao Chiaraluce 👨🏽‍💻</h4>
+   <h4>* Tecnología utilizada: Java ☕</h4>
+   <h4>* Desarrollador: Estanislao Chiaraluce 👨🏽‍💻</h4>
  
    <h2>Conversor De Monedas 💱</h2> 
    El conversor de monedas está basado en la moneda argentina (peso argentino): el usuario ingresa primero el monto y luego elige si quiere convertir el peso argentino a alguna otra moneda (dolar, euro, libra esterlina, yen o won), o si a la inversa quiere convertir alguna de estas monedas al peso argentino.
