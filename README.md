@@ -13,7 +13,7 @@
    El conversor de temperatura funciona de modo similar: el usuario ingresa primero los grados con los que quiere trabajar y luego selecciona cuál es el pasaje que quiere hacer entre los 3 sistemas de medición de temperatura disponibles (Celcius, Fahrenheit y Kelvin).
    <h2>Marco del proyecto</h2> 
    Este proyecto fue realizado en el marco del curso de Alura Latam en conjunto con Oracle --> Challenge ONE Java Sprint 01: Crea tu propio conversor de moneda.<br>
-   Desarrollador: Estanislao Chiaraluce 👨🏽‍💻
+   <b>Desarrollador: Estanislao Chiaraluce 👨🏽‍💻</b>
    
  
 ![MenuConversores](https://user-images.githubusercontent.com/105081652/188043807-8896c5e2-7619-4181-9bad-b0ecf1243487.png)
