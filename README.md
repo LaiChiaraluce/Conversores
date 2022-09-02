@@ -1,6 +1,6 @@
 ![ConversorImagenFondo](https://user-images.githubusercontent.com/105081652/187108388-91b61282-2289-4076-aaf0-cc6c350101a5.png)
 
-# <h1 align="center">Conversores</h1>
+# <h1 align="center">Conversores: Monedas y Sistema de Temperatura</h1>
    Este proyecto consiste en un menú de conversores que cuenta con dos opciones: Conversor de Monedas y Conversor de Temperaturas.
    
    <h4>* Tecnología utilizada: Java ☕</h4>
